@@ -1,97 +1,76 @@
+<h1 align="center">Gabriel Sezana 👨‍💻 | Desenvolvedor focado em inovação e IA</h1>
+
 <p align="center">
-  Since 2021 - Desenvolvedor apaixonado por IA e Backend 🚀
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gabriel-sezana&style=for-the-badge">
+  <a href="https://linkedin.com/in/gabrielsezana/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://user-badge.committers.top/brazil/gabriel-sezana">
-    <img src="https://user-badge.committers.top/brazil/gabriel-sezana.svg">
+  <a href="mailto:gabrielsezana@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-<!-- Visualização 3D do perfil - será gerada automaticamente -->
-<img src="https://raw.githubusercontent.com/gabriel-sezana/testando/main/profile-3d-contrib/profile-night-view.svg">
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-sezana&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true">
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=gabriel-sezana&theme=tokyonight&hide_border=true">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-sezana&theme=tokyo-night&hide_border=true">
-  </a>       
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-sezana&theme=tokyonight&hide_border=true&layout=compact">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gabriel-sezana&theme=tokyonight&hide_border=true&column=7&margin-w=15&margin-h=15&no-frame=true">
-  </a>       
-</p>
-
----
-
-<h2 align="center">🧠 Tech Stack</h2>
-
-<p align="center">
-  <strong>Backend:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
-<p align="center">
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
-
-<p align="center">
-  <strong>DevOps & Tools:</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</p>
-
----
-
-<h2 align="center">🚀 Sobre Mim</h2>
-
-<p align="center">
-  👨‍💻 <strong>Desenvolvedor Backend</strong> focado em Python, Django e APIs RESTful<br>
-  🤖 Apaixonado por <strong>Inteligência Artificial</strong> e automação<br>
-  🎓 Formado em <strong>Engenharia de Controle e Automação</strong><br>
-  💡 +3 anos de experiência em Frontend, agora especializado em Backend<br>
-  🔥 Sempre em busca de novos desafios e tecnologias
-</p>
-
----
-
-<h2 align="center">📫 Vamos Conectar?</h2>
-
-<p align="center">
   <a href="https://github.com/gabriel-sezana">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/gabriel-sezana">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://drive.google.com/file/d/1DfY5XJjvZadz5XODy4JIBYJ1yFElle-7/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/-Currículo-4A90E2?style=flat&logo=google-drive&logoColor=white" alt="Currículo">
   </a>
 </p>
 
-<p align="center">
-  <em>✨ Proativo | 💡 Curioso por natureza | 🚀 Foco em resultado | 🤖 Apaixonado por IA ✨</em>
+---
+
+<div align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="400" alt="Developer GIF auto-play" />
+</div>
+
+---
+
+## Sobre mim 🚀
+
+Olá! Eu sou o Gabriel, um desenvolvedor apaixonado por **resolver problemas com código limpo e eficiente**, focado atualmente em tecnologias modernas de **backend com Python, Django e APIs RESTful**, com grande interesse em projetos que envolvam **Inteligência Artificial** e **automação**.
+
+💡 Com uma formação em Engenharia de Controle e Automação, trago uma mentalidade analítica e sistêmica para o desenvolvimento de software.
+
+🚀 Tenho mais de **3 anos de experiência em Frontend** (React.js, Next.js), e agora estou me especializando em Backend, com foco em **soluções escaláveis**, **seguras** e **inteligentes**.
+
+🤖 Estou constantemente me atualizando com as **tecnologias mais modernas**, frameworks robustos e cases de sucesso do setor, especialmente aqueles que integram IA à experiência do usuário.
+
+### 🎯 O que estou buscando?
+
+Estou aberto a **novos desafios** (CLT ou PJ), tanto em Backend quanto em áreas relacionadas a automação, IA, e tecnologia de ponta. Se o seu time busca alguém com energia, mentalidade de crescimento e foco em resultado, **bora conversar**!
+
+---
+
+## 🧠 Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST_API-FF6F00?style=flat&logo=api&logoColor=white" />
 </p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Ferramentas & DevOps
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## ✨ Palavras-chave que me definem:
+**🔥 Proativo | 💡 Curioso por natureza | 🚀 Foco em resultado | 🤖 Apaixonado por IA | 🤝 Trabalho em equipe | 🧠 Pensamento analítico**
+
+---
+
+<div align="center">
+  <sub>Feito com 💙 por Gabriel Sezana | <a href="https://www.linkedin.com/in/gabriel-sezana/">Conecte-se comigo no LinkedIn</a></sub>
+</div>
