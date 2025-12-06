@@ -1,76 +1,181 @@
-<h1 align="center">Gabriel Sezana 👨‍💻 | Desenvolvedor focado em inovação e IA</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/gabrielsezana/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gabrielsezana@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/gabriel-sezana">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://drive.google.com/file/d/1DfY5XJjvZadz5XODy4JIBYJ1yFElle-7/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/-Currículo-4A90E2?style=flat&logo=google-drive&logoColor=white" alt="Currículo">
-  </a>
-</p>
+# 👨‍💻 Gabriel Sezana
+
+### Backend Engineer • AI Developer • Data Solutions
+
+*Transformando ideias em sistemas robustos e inteligentes*
 
 ---
 
-<div align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="400" alt="Developer GIF auto-play" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsezana/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsezana@gmail.com)
+
+
 </div>
 
 ---
 
-## Sobre mim 🚀
+## 🎯 Sobre Mim
 
-Olá! Eu sou o Gabriel, um desenvolvedor apaixonado por **resolver problemas com código limpo e eficiente**, focado atualmente em tecnologias modernas de **backend com Python, Django e APIs RESTful**, com grande interesse em projetos que envolvam **Inteligência Artificial** e **automação**.
+Olá! Sou desenvolvedor **Full Stack** com forte especialização em **Backend e IA**, trazendo uma perspectiva única ao combinar 3+ anos de experiência em **Frontend** (React.js, Next.js) com expertise moderna em **Python, Django e sistemas inteligentes**.
 
-💡 Com uma formação em Engenharia de Controle e Automação, trago uma mentalidade analítica e sistêmica para o desenvolvimento de software.
+💡 **Formação em Engenharia de Controle e Automação** - trago mentalidade analítica e sistêmica para o desenvolvimento de software  
+🚀 **Transição estratégica para Backend** - focado em arquitetura escalável, APIs robustas e integração de IA  
+🤖 **Paixão por inovação** - constantemente explorando LLMs, agentes autônomos e automação inteligente  
 
-🚀 Tenho mais de **3 anos de experiência em Frontend** (React.js, Next.js), e agora estou me especializando em Backend, com foco em **soluções escaláveis**, **seguras** e **inteligentes**.
-
-🤖 Estou constantemente me atualizando com as **tecnologias mais modernas**, frameworks robustos e cases de sucesso do setor, especialmente aqueles que integram IA à experiência do usuário.
-
-### 🎯 O que estou buscando?
-
-Estou aberto a **novos desafios** (CLT ou PJ), tanto em Backend quanto em áreas relacionadas a automação, IA, e tecnologia de ponta. Se o seu time busca alguém com energia, mentalidade de crescimento e foco em resultado, **bora conversar**!
-
----
-
-## 🧠 Tech Stack
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REST_API-FF6F00?style=flat&logo=api&logoColor=white" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Ferramentas & DevOps
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+**O que eu entrego:**
+- 🎨 Visão end-to-end (frontend + backend) para produtos completos
+- 🚀 APIs RESTful de alta performance e sistemas escaláveis
+- 🤖 Implementação de agentes autônomos, RAG e soluções com IA
+- ☁️ Deploy profissional com Docker, Kubernetes e Cloud (AWS)
+- 📊 Código limpo, testes automatizados e documentação impecável
 
 ---
 
-## ✨ Palavras-chave que me definem:
-**🔥 Proativo | 💡 Curioso por natureza | 🚀 Foco em resultado | 🤖 Apaixonado por IA | 🤝 Trabalho em equipe | 🧠 Pensamento analítico**
+## 🛠️ Stack Tecnológico
+
+### Backend & APIs
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&perline=8" />
+</div>
+
+### Frontend (3+ anos de experiência)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&perline=8" />
+</div>
+
+### Inteligência Artificial & LLMs
+<div align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Systems-4A90E2?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DBs-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
+</div>
+
+### Infraestrutura & DevOps
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github&perline=8" />
+</div>
+
+### Bancos de Dados & Cache
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=8" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🔥 Sequência de Contribuições
+<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-sezana&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" />
+
+### 📈 Estatísticas Gerais
+
+<img width="49%" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabriel-sezana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" 
+/>
+
+<img width="49%" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabriel-sezana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF" 
+/>
+### 📊 Detalhamento de Atividades
+<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-sezana&theme=tokyonight" />
+
+### 🌡️ Heatmap de Contribuições
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-sezana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" />
+
+</div>
+
+---
+
+## 💼 Diferenciais Profissionais
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Especialidades
+
+```diff
++ Arquitetura de Microsserviços
++ Sistemas RAG e Agentes Autônomos
++ Otimização de Performance
++ Integração de LLMs em Produção
++ APIs RESTful Escaláveis
++ Event-Driven Architecture
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Foco Atual
+
+```yaml
+2024-2025:
+  - Escalabilidade de Sistemas de IA
+  - DevOps & CI/CD Pipelines
+  - Clean Architecture & Design Patterns
+  - Distributed Systems
+  - Observability & Monitoring
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✨ Soft Skills & Diferenciais
+
+<div align="center">
+
+🔥 **Proativo** • 💡 **Curioso por Natureza** • 🚀 **Foco em Resultado**  
+🤖 **Apaixonado por IA** • 🤝 **Trabalho em Equipe** • 🧠 **Pensamento Analítico**
+
+</div>
+
+---
+
+## 🎓 Aprendizado Contínuo
+
+Atualmente estudando e aprimorando conhecimentos em:
+
+- 🧠 **Deep Learning** - Redes neurais e modelos avançados
+- ⚡ **System Design** - Padrões de arquitetura escalável
+- 🔐 **Security** - Melhores práticas em segurança de APIs
+- 🌐 **Distributed Systems** - Microserviços e event-driven architecture
+
+---
+
+## 📫 Vamos Conversar?
+
+<div align="center">
+
+💼 **Aberto a novos desafios (CLT ou PJ)**  
+Busco projetos que envolvam **Backend**, **IA**, **Automação** ou **Full Stack**
+
+Se o seu time busca alguém com **energia**, **mentalidade de crescimento** e **foco em resultado**, vamos conversar!
+
+---
+
+**📧 Email:** gabrielsezana@gmail.com
+**💼 LinkedIn:** [https://www.linkedin.com/in/gabrielsezana/](seu-linkedin)  
+
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Feito com 💙 por Gabriel Sezana | <a href="https://www.linkedin.com/in/gabriel-sezana/">Conecte-se comigo no LinkedIn</a></sub>
+
+### ⭐ Se você chegou até aqui, considere dar uma estrela nos repositórios!
+
+![Profile Views](https://komarev.com/ghpvc/?username=gabriel-sezana&color=5BCDEC&style=for-the-badge)
+
+*"Código limpo não é escrito seguindo regras. É escrito com respeito."* - **Robert C. Martin**
+
 </div>
