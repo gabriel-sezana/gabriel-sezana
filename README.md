@@ -163,7 +163,7 @@ Se o seu time busca alguém com **energia**, **mentalidade de crescimento** e **
 ---
 
 **📧 Email:** gabrielsezana@gmail.com
-**💼 LinkedIn:** [https://www.linkedin.com/in/gabrielsezana/]([seu-linkedin](https://www.linkedin.com/in/gabrielsezana/))  
+**💼 LinkedIn:** https://www.linkedin.com/in/gabrielsezana/
 
 
 </div>
